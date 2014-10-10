@@ -16,3 +16,8 @@ So, I had already designed state machines with HTTP diagrams, so I took those:
 index.html
 inventory.html
 farmer_submit.html
+
+And now...documentation:
+
+index.html
+I took some template html code from a random site I was playing with a couple months ago that wasn't...
