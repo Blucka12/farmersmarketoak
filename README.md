@@ -5,16 +5,17 @@ Oak's learning on how to organize a farmer's market on the web...
 
 So, I had already designed state machines with HTTP diagrams, so I took those:
 
-[Imgur](http://i.imgur.com/hEnrSFw.png?1)
+[Farmer](http://i.imgur.com/hEnrSFw.png?1)
 
-[Imgur](http://i.imgur.com/lsLkRfW.png?1)
+[User](http://i.imgur.com/lsLkRfW.png?1)
 
-[Imgur](http://i.imgur.com/iwqdVZQ.png?1)
+[Market](http://i.imgur.com/iwqdVZQ.png?1)
 
 ...and then have to combine the elements of usability of all three to create the html structure for it:
 
 index.html
 
+<table>
 <!doctype html>
 <html>
 <head>
@@ -51,7 +52,7 @@ Copyright 2014 BabyGotBlackEyedPeas Produce Consortium
 </footer>
 </body>
 </html>
-
+</table>
 -------------------------------
 
 inventory.html
